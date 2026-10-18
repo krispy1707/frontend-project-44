@@ -6,3 +6,6 @@ brain-games:
 	
 publish:
 	npm publish --dry-run
+	
+lint:
+	npx oxlint && npx oxfmt --ignore-path=.oxfmtignore --check

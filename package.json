@@ -6,21 +6,25 @@
   "bugs": {
     "url": "https://github.com/krispy1707/frontend-project-44/issues"
   },
+  "license": "ISC",
+  "author": "",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/krispy1707/frontend-project-44.git"
   },
-  "license": "ISC",
-  "author": "",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
   "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "bin": {
-    "brain-games": "bin/brain-games.js"
-  },
   "dependencies": {
     "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "oxfmt": "^0.73.0",
+    "oxlint": "^1.88.0"
   }
 }
