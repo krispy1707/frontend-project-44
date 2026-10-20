@@ -32,6 +32,7 @@ cd frontend-project-44
 
 Арифметическая прогрессия: https://asciinema.org/a/l62P5dXhijs0yMe2
 
+Простое ли число?: https://asciinema.org/a/wluv2xewUDKhPN1B
 
 
 ---
