@@ -13,6 +13,7 @@
     "url": "git+https://github.com/krispy1707/frontend-project-44.git"
   },
   "bin": {
+    "brain-calc": "bin/brain-calc.js",
     "brain-even": "bin/brain-even.js",
     "brain-games": "bin/brain-games.js"
   },
