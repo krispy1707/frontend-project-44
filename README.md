@@ -26,6 +26,7 @@ cd frontend-project-44
 
 Игра проверка на четность: https://asciinema.org/a/o5xRYVab83ADKji4
 Калькулятор: https://asciinema.org/a/QgAXZo56RxzcA2iA
+НОД: https://asciinema.org/a/iQ5oqHdTM7FFpAEb
 
 ---
 
